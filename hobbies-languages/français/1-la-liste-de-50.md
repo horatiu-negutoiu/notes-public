@@ -1,12 +1,15 @@
 # Français / La liste de 50
 
-1. Ceci est une pomme.
-2. La pomme est rouge.
-3. C'est la pomme de Jean.
-4. Je dois la lui donner.
-5. Je donne à Jean sa pomme.
-6. Il la donne à Sarah.
-7. Elle nous la donne.
+
+
+
+1. `Ceci est une pomme.` Acesta este un mǎr.
+2. `La pomme est rouge.` Mǎrul este roșu.
+3. `C'est la pomme de Jean.` Este mărul lui Jean.
+4. `Je dois la lui donner.` Trebuie să i-l dau.
+5. `Je donne à Jean sa pomme.` Îi dau lui Jean mărul său.
+6. `Il la donne à Sarah.` El i-l dă lui Sarah.
+7. `Elle nous la donne.
 8. Nous lui donnons la pomme.
 9. Elle ne veut pas la pomme.
 10. Ils veulent me la donner.
@@ -50,3 +53,4 @@
 48. Nous mangeons des pommes tous les jours.
 49. Donne-moi une pomme, s'il te plaît.
 50. Il n'y a plus de pommes dans le panier.
+```
