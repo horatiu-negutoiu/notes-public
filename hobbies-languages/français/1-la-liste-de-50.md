@@ -1,8 +1,5 @@
 # Français / La liste de 50
 
-
-
-
 1. `Ceci est une pomme.` Acesta este un mǎr.
 2. `La pomme est rouge.` Mǎrul este roșu.
 3. `C'est la pomme de Jean.` Este mărul lui Jean.
